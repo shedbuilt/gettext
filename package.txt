@@ -1,0 +1,5 @@
+NAME=gettext
+VERSION=0.19.8.1
+REVISION=1
+SRC=http://ftp.gnu.org/gnu/gettext/gettext-0.19.8.1.tar.xz
+SRCMD5=df3f5690eaa30fd228537b00cb7b7590
